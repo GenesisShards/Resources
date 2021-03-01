@@ -1,2 +1,2 @@
 # Resources
-GenesisShards General Resources
+Genesis Shards General Resources
